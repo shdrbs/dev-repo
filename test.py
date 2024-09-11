@@ -1,0 +1,3 @@
+print("aaaa")
+
+dd="aa"
